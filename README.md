@@ -1,1 +1,1 @@
-# Implementing-SGD-form-scratch
+# Implementing-SGD-from-scratch
